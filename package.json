@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xthecapx/unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xthecapx/unit-testing/issues"
+  },
+  "homepage": "https://github.com/xthecapx/unit-testing#readme",
+  "devDependencies": {
+    "jasmine": "^3.3.1"
+  }
+}
