@@ -2,7 +2,7 @@ function expect(actual) {
   return {
     toBe(expect) {
       if (actual !== expect) {
-        throw new Error('Prueba no existosa');
+        throw new Error("Prueba no existosa");
       }
     }
   };
